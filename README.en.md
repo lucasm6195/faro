@@ -5,13 +5,11 @@
 <h1 align="center">Faro</h1>
 
 <p align="center">
-  A native macOS terminal built for working with Claude Code and other AI tools.<br>
-  As light as Terminal.app, with the things you'd miss from Warp.
+  A native macOS terminal as light as Terminal.app, with the things you'd miss from Warp.<br>
+  And if you work with AI tools like Claude Code, it makes that easier too.
 </p>
 
-<p align="center">
-  <a href="docs/faro-demo-github.mp4"><img src="docs/faro-demo-poster.png" width="860" alt="Faro video: click to watch"></a>
-</p>
+https://github.com/user-attachments/assets/1560db1b-9b3d-448e-bb6e-aafaba2c68fa
 
 > The app itself is in Spanish for now.
 

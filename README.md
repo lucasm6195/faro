@@ -5,8 +5,8 @@
 <h1 align="center">Faro</h1>
 
 <p align="center">
-  Una terminal nativa para macOS, pensada para trabajar con Claude Code y compañía.<br>
-  Gasta lo que Terminal.app y trae lo que echabas de menos de Warp.
+  Una terminal nativa para macOS que gasta lo que Terminal.app<br>
+  y trae lo que echabas de menos de Warp. Y si trabajas con IAs, te lo pone fácil.
 </p>
 
 <p align="center">
@@ -16,10 +16,9 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/licencia-MIT-black" alt="Licencia MIT"></a>
 </p>
 
-<p align="center">
-  <a href="docs/faro-demo-github.mp4"><img src="docs/faro-demo-poster.png" width="860" alt="Vídeo de Faro: pulsa para verlo"></a>
-  <br><sub>Pulsa la imagen para ver el vídeo (1 min 40 s). <a href="https://github.com/lucasm6195/faro/releases/latest">En la release</a> está también en 1440p a 60 fps.</sub>
-</p>
+https://github.com/user-attachments/assets/1560db1b-9b3d-448e-bb6e-aafaba2c68fa
+
+<p align="center"><sub>También en 1440p a 60 fps en la <a href="https://github.com/lucasm6195/faro/releases/latest">última versión</a>.</sub></p>
 
 <p align="center"><a href="README.en.md">English version</a></p>
 
@@ -48,7 +47,7 @@ Necesita macOS 15 (Sequoia) o posterior. Funciona en Apple Silicon y en Intel.
 
 ## Por qué otra terminal
 
-Quería algo tan ligero como Terminal.app pero con lo que hace cómodo a Warp, y que entendiera que media vida la paso con Claude Code abierto. Esto es lo que gasta:
+Probé cinco terminales. Todas cumplen, pero o gastan mucho o se quedan cortas, así que me hice la mía: tan ligera como Terminal.app, con lo que hace cómoda a Warp y con detalles para cuando tienes Claude Code u otra IA trabajando. Esto es lo que gasta:
 
 | | Faro | Warp |
 |---|---|---|
