@@ -11,6 +11,8 @@
 
 https://github.com/user-attachments/assets/1560db1b-9b3d-448e-bb6e-aafaba2c68fa
 
+<p align="center"><a href="https://www.youtube.com/watch?v=yYQ0EoFe7eA"><img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?logo=youtube&logoColor=white" alt="Watch on YouTube"></a></p>
+
 > The app itself is in Spanish for now.
 
 ## Install

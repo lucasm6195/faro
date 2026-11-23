@@ -18,7 +18,10 @@
 
 https://github.com/user-attachments/assets/1560db1b-9b3d-448e-bb6e-aafaba2c68fa
 
-<p align="center"><sub>También en 1440p a 60 fps en la <a href="https://github.com/lucasm6195/faro/releases/latest">última versión</a>.</sub></p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=yYQ0EoFe7eA"><img src="https://img.shields.io/badge/Ver%20en%20YouTube-FF0000?logo=youtube&logoColor=white" alt="Ver en YouTube"></a><br>
+  <sub>También en 1440p a 60 fps en la <a href="https://github.com/lucasm6195/faro/releases/latest">última versión</a>.</sub>
+</p>
 
 <p align="center"><a href="README.en.md">English version</a></p>
 
