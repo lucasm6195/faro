@@ -1,0 +1,7 @@
+.build/
+.swiftpm/
+*.app
+.DS_Store
+dist/
+# El vídeo en 1440p pasa de 100 MB: va como descarga en la release, no en el repositorio.
+docs/faro-demo.mp4
