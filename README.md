@@ -36,6 +36,7 @@ curl -fsSL https://raw.githubusercontent.com/lucasm6195/faro/main/install.sh | b
 **Con Homebrew:**
 
 ```bash
+brew tap lucasm6195/tap && brew trust lucasm6195/tap
 brew install --cask lucasm6195/tap/faro
 ```
 
